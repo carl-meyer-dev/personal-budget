@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "personal-budget-client": "https://github.com/mkShogun96/personal-budget-client.git",
+    "personal-budget-server": "https://github.com/mkShogun96/personal-budget-server.git"
+  }
+}
